@@ -2,6 +2,9 @@
 
 Convert a series of 8-bit signed integers to 32-bit floats.
 
+[![Build status](https://travis-ci.org/watson/b2f.svg?branch=master)](https://travis-ci.org/watson/b2f)
+[![js-standard-style](https://img.shields.io/badge/code%20style-standard-brightgreen.svg?style=flat)](https://github.com/feross/standard)
+
 ## Installation
 
 Install globally to use from the command line:
