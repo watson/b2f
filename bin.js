@@ -1,3 +1,4 @@
+#!/usr/bin/env node
 'use strict'
 
 var through2 = require('through2')
