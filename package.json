@@ -1,0 +1,44 @@
+{
+  "name": "b2f",
+  "version": "0.0.0",
+  "description": "Convert a series of 8-bit signed integers to 32-bit floats",
+  "bin": "bin.js",
+  "main": "index.js",
+  "dependencies": {
+    "pump": "^1.0.2",
+    "through2": "^2.0.3"
+  },
+  "devDependencies": {
+    "standard": "^8.6.0",
+    "tape": "^4.6.3"
+  },
+  "scripts": {
+    "test": "standard && node test.js"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/watson/b2f.git"
+  },
+  "keywords": [
+    "number",
+    "float",
+    "integer",
+    "signed",
+    "bit",
+    "bits",
+    "convert",
+    "conversion",
+    "transform",
+    "complex",
+    "hackrf",
+    "math",
+    "stream",
+    "pipe"
+  ],
+  "author": "Thomas Watson Steen <w@tson.dk> (https://twitter.com/wa7son)",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/watson/b2f/issues"
+  },
+  "homepage": "https://github.com/watson/b2f#readme"
+}
