@@ -1,6 +1,6 @@
 {
   "name": "b2f",
-  "version": "0.0.0",
+  "version": "1.0.0",
   "description": "Convert a series of 8-bit signed integers to 32-bit floats",
   "bin": "bin.js",
   "main": "index.js",
@@ -40,5 +40,9 @@
   "bugs": {
     "url": "https://github.com/watson/b2f/issues"
   },
-  "homepage": "https://github.com/watson/b2f#readme"
+  "homepage": "https://github.com/watson/b2f#readme",
+  "coordinates": [
+    47.4935456,
+    19.0599578
+  ]
 }
